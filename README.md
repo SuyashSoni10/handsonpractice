@@ -23,18 +23,28 @@ FSE-Java-Training/
 │           ├── Logger.java
 │           └── SingletonTest.java
 │
-└── FactoryMethodPatternExample/
-    └── src/
-        └── com/example/factory/
-            ├── Document.java
-            ├── DocumentFactory.java
-            ├── WordDocument.java
-            ├── WordDocumentFactory.java
-            ├── PdfDocument.java
-            ├── PdfDocumentFactory.java
-            ├── ExcelDocument.java
-            ├── ExcelDocumentFactory.java
-            └── FactoryMethodTest.java
+├── FactoryMethodPatternExample/
+|    └── src/
+|        └── com/example/factory/
+|            ├── Document.java
+|            ├── DocumentFactory.java
+|            ├── WordDocument.java
+|            ├── WordDocumentFactory.java
+|            ├── PdfDocument.java
+|            ├── PdfDocumentFactory.java
+|            ├── ExcelDocument.java
+|            ├── ExcelDocumentFactory.java
+|            └── FactoryMethodTest.java
+|
+├──EcommercePlatformSearch            
+    └───src
+        └───com
+            └───example
+                └───serach
+                        BinarySearch.java
+                        LinearSearch.java
+                        Product.java
+                        SearchTest.java
 ```
 
 
@@ -58,8 +68,9 @@ ProjectName/
 
 | # | Project Folder | Topic |
 |---|---|---|
-| 1 | `SingletonPatternExample` | Singleton Design Pattern |
-| 2 | `FactoryMethodPatternExample` | Factory Method Design Pattern |
+| 1 | `SingletonPatternExample` |Exercise 1: Implementing the Singleton Pattern |
+| 2 | `FactoryMethodPatternExample` | Exercise 2: Implementing the Factory Method Pattern |
+| 3 | `EcommercePlatformSearch` | Exercise 2: E-commerce Platform Search Function
 
 ---
 
