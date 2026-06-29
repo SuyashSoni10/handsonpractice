@@ -4,6 +4,14 @@
 Superset ID: 8005318 | Reg No: 23BAI10165 | VIT Bhopal University
 
 ---
+## Exercises
+
+| # | Project Folder | Topic |
+|---|---|---|
+| 1 | `SingletonPatternExample` |Exercise 1: Implementing the Singleton Pattern |
+| 2 | `FactoryMethodPatternExample` | Exercise 2: Implementing the Factory Method Pattern |
+| 3 | `EcommercePlatformSearch` | Exercise 2: E-commerce Platform Search Function |
+| 4 | `FinancialForecastingRecursion` | Exercise 7: Financial Forecasting | 
 
 ## About This Repository
 
@@ -38,13 +46,12 @@ FSE-Java-Training/
 |
 ├──EcommercePlatformSearch            
     └───src
-        └───com
-            └───example
-                └───serach
-                        BinarySearch.java
-                        LinearSearch.java
-                        Product.java
-                        SearchTest.java
+        └───com/example/factory/
+            ├── BinarySearch.java
+            ├── LinearSearch.java
+            ├── Product.java
+            ├── SearchTest.java
+so on....
 ```
 
 
@@ -62,17 +69,6 @@ ProjectName/
 └── [Test / Runner class with main()]
 
 ```
----
-
-## Exercises
-
-| # | Project Folder | Topic |
-|---|---|---|
-| 1 | `SingletonPatternExample` |Exercise 1: Implementing the Singleton Pattern |
-| 2 | `FactoryMethodPatternExample` | Exercise 2: Implementing the Factory Method Pattern |
-| 3 | `EcommercePlatformSearch` | Exercise 2: E-commerce Platform Search Function
-
----
 
 ## Tech Stack
 
