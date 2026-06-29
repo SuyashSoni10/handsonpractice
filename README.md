@@ -1,4 +1,4 @@
-# Java FSE Training — Design Patterns & Core Concepts
+# Java FSE Training
 
 # **Suyash Soni**
 Superset ID: 8005318 | Reg No: 23BAI10165 | VIT Bhopal University
