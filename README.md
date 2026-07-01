@@ -12,6 +12,7 @@ Superset ID: 8005318 | Reg No: 23BAI10165 | VIT Bhopal University
 | 2 | `FactoryMethodPatternExample` | Exercise 2: Implementing the Factory Method Pattern |
 | 3 | `EcommercePlatformSearch` | Exercise 2: E-commerce Platform Search Function |
 | 4 | `FinancialForecastingRecursion` | Exercise 7: Financial Forecasting | 
+| 5 | `PL-SQL` | Exercise 1: Control Structures |
 
 ## About This Repository
 
@@ -72,6 +73,6 @@ ProjectName/
 
 ## Tech Stack
 
-- Language: Java 17
-- IDE: IntelliJ IDEA
+- Language: Java 17, PLSQL
+- IDE: IntelliJ IDEA, VS Code
 - Build: Manual (no Maven/Gradle)
